@@ -1,26 +1,38 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-
-
 
 {% include base_path %}
 
 # Shouyong Jiang
 Physicist, Mathematician, Cambridge professor.
 
+<br>
+<div class="no-print" align="center">
+<a href="./sjiang.pdf" target="_blank">Printable Version</a> <i class="fas fa-external-link-alt"></i>
+</div>
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<br>
+
+Updated: 18 November 2021
+
 </div>
 
 
-## Currently
 
-Standing on the shoulders of giants
+
+## Contact
+
++ Department of Computer Science
++ University of Aberdeen
++ Aberdeen AB24 3FX
++ United Kingdom
++ <i class="ai ai-homepage"></i> <a href="https://chang88ye.github.io/homepage"><code>https://chang88ye.github.io/homepage</code></a>
++ <i class="fa fa-envelope"></i> <a href="mailto:shouyong.jiang@abdn.ac.uk"><code>shouyong.jiang@abdn.ac.uk</code></a>
+<!-- + <i class="ai-google-scholar-square"></i> <a href="https://scholar.google.co.uk/citations?user=TYPFuiQAAAAJ&hl=en"><code>https://scholar.google.co.uk</code></a> -->
++ <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0001-5099-2093"><code>https://orcid.org/0000-0001-5099-2093</code></a>
 
 ### Specialized in
 

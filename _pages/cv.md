@@ -13,9 +13,11 @@ redirect_from:
 
 ---
 layout: cv
+title: Shouyong Jiang's CV
 permalink: /cv/
 author_profile: true
-title: Shouyong Jiang's CV
+redirect_from:
+  - /resume
 ---
 
 # Shouyong Jiang

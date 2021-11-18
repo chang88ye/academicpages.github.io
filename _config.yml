@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Dr"
+title                    : "Dr Shouyong Jiang"
 title_separator          : "-"
 name                     : &name "Shouyong Jiang"
 description              : &description "personal description"
@@ -85,10 +85,10 @@ author:
   bio              : "Assistant Professor, University of Aberdeen, UK"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=TYPFuiQAAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Shouyong-Jiang"
+  researchgate     : "https://www.researchgate.net/profile/Shouyong-Jiang"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/chang88ye"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5099-2093"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

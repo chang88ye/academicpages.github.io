@@ -1,24 +1,15 @@
-<!-- ---
+---
 layout: cv
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
---- -->
+---
 
 
 
 {% include base_path %}
-
----
-layout: cv
-title: "Shouyong Jiang's CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
 
 # Shouyong Jiang
 Physicist, Mathematician, Cambridge professor.

@@ -13,8 +13,11 @@ redirect_from:
 
 ---
 layout: cv
+permalink: /cv/
+author_profile: true
 title: Shouyong Jiang's CV
 ---
+
 # Shouyong Jiang
 Physicist, Mathematician, Cambridge professor.
 

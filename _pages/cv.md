@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 # Shouyong Jiang
-Physicist, Mathematician, Cambridge professor.
+Computer Scientist, Data Researcher.
 
 <br>
 <div class="no-print" align="center">
@@ -29,9 +29,10 @@ Updated: 18 November 2021
 + University of Aberdeen
 + Aberdeen AB24 3FX
 + United Kingdom
-+ <i class="ai ai-homepage"></i> <a href="https://chang88ye.github.io/homepage"><code>https://chang88ye.github.io/homepage</code></a>
++ <i class="fa fa-homepage"></i> <a href="https://chang88ye.github.io/homepage"><code>https://chang88ye.github.io/homepage</code></a>
 + <i class="fa fa-envelope"></i> <a href="mailto:shouyong.jiang@abdn.ac.uk"><code>shouyong.jiang@abdn.ac.uk</code></a>
-<!-- + <i class="ai-google-scholar-square"></i> <a href="https://scholar.google.co.uk/citations?user=TYPFuiQAAAAJ&hl=en"><code>https://scholar.google.co.uk</code></a> -->
+<!-- + <i class="ai-google-scholar"></i> <a href="https://scholar.google.co.uk/citations?user=TYPFuiQAAAAJ&hl=en"><code>https://scholar.google.co.uk</code></a> -->
++ <i class="fab fa-researchgate"></i> <a href="https://orcid.org/0000-0001-5099-2093"><code>https://orcid.org/0000-0001-5099-2093</code></a>
 + <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0001-5099-2093"><code>https://orcid.org/0000-0001-5099-2093</code></a>
 
 ### Specialized in
@@ -41,32 +42,35 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Artificial Intelligence, Data Science, Optimisation and Decision Making, Evolutionary Learning.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`11/2013 - 3/2017`
+__De Montfort University, Leicester, UK__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- PhD
 
-- Sizar
+`9/2011 - 7/2013`
+__Northeastern University, Shenyang, China__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- MSc
+- 
+`9/2007 - 7/2011`
+__Northeastern University, Shenyang, China__
 
-- Fellow
-
+- BSc
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2021`
 
-Associate, *French Academy of Science*, Paris, France
+*Outstanding PhD Dissertation Award*, Computational Intelligence Society (CIS), IEEE
+
+'2016'
+*Outstanding Students Abroad*, China Scholarship Council (CIS)
 
 
 
@@ -76,11 +80,11 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Journals
 
-`1669`
+`2021`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
-`1669`
-Lectiones opticæ.
+`2020`
+Thomas Johansen, _The Powers of Aristotle's Soul_. _Philosophical Review_ 125 (1): 135--138.
 
 etc. etc. etc.
 

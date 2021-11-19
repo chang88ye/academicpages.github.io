@@ -77,7 +77,7 @@ Ph.D Researcher, Centre for Computational Intelligence, De Montfort University, 
 
 ## Honors & Awards
 
-`2021`
+'2021'
 *Outstanding PhD Dissertation Award*, Computational Intelligence Society (CIS), IEEE
 
 '2017'

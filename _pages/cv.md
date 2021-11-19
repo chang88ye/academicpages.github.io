@@ -32,7 +32,7 @@ Updated: 18 November 2021
 + <i class="fa fa-homepage"></i> <a href="https://chang88ye.github.io/homepage"><code>https://chang88ye.github.io/homepage</code></a>
 + <i class="fa fa-envelope"></i> <a href="mailto:shouyong.jiang@abdn.ac.uk"><code>shouyong.jiang@abdn.ac.uk</code></a>
 <!-- + <i class="ai-google-scholar"></i> <a href="https://scholar.google.co.uk/citations?user=TYPFuiQAAAAJ&hl=en"><code>https://scholar.google.co.uk</code></a> -->
-+ <i class="fab fa-researchgate"></i> <a href="https://orcid.org/0000-0001-5099-2093"><code>https://orcid.org/0000-0001-5099-2093</code></a>
++ <i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Shouyong-Jiang"><code>https://www.researchgate.net/profile/Shouyong-Jiang</code></a>
 + <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0001-5099-2093"><code>https://orcid.org/0000-0001-5099-2093</code></a>
 
 ### Specialized in
@@ -48,25 +48,37 @@ Artificial Intelligence, Data Science, Optimisation and Decision Making, Evoluti
 ## Education
 
 `11/2013 - 3/2017`
-__De Montfort University, Leicester, UK__
-
-- PhD
+__De Montfort University, Leicester, UK__, PhD in Computer Science. Dissertation: "Evolutionary Algorithms for Multi-objective Optimisation in Static and Dynamic Environments".
 
 `9/2011 - 7/2013`
-__Northeastern University, Shenyang, China__
+__Northeastern University, Shenyang, China__, MSc in Control Systems.
 
-- MSc
 - 
 `9/2007 - 7/2011`
-__Northeastern University, Shenyang, China__
+__Northeastern University, Shenyang, China__, BSc in Mathematics.
 
-- BSc
+## Academic Career
 
+'2021' 
+Lecturer in Artificial Intelligence, University of Aberdeen, Aberdeen, UK.
+
+'2019' 
+Lecturer in Machine Learning, University of Lincoln, Lincoln, UK.
+
+'2018' 
+Visiting Scholar, Bio Process Engineering Group, IIM-CSIC, Vigo, Spain.
+
+Visiting Scholar, Computational Systems Biology Group, ETH, Zurich, Swiss.
+
+'2017'
+Research Associate, ICOS Group, Newcastle University, Newcastle upon Tyne, UK.
+
+'2013'
+Ph.D Researcher, Centre for Computational Intelligence, De Montfort University, Leicester, UK.
 
 ## Awards
 
 `2021`
-
 *Outstanding PhD Dissertation Award*, Computational Intelligence Society (CIS), IEEE
 
 '2016'

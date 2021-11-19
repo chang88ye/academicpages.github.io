@@ -29,7 +29,7 @@ Updated: 18 November 2021
 + University of Aberdeen
 + Aberdeen AB24 3FX
 + United Kingdom
-+ <i class="fa fa-homepage"></i> <a href="https://chang88ye.github.io/homepage"><code>https://chang88ye.github.io/homepage</code></a>
++ <i class="fas fa-home"></i> <a href="https://chang88ye.github.io/homepage"><code>https://chang88ye.github.io/homepage</code></a>
 + <i class="fa fa-envelope"></i> <a href="mailto:shouyong.jiang@abdn.ac.uk"><code>shouyong.jiang@abdn.ac.uk</code></a>
 <!-- + <i class="ai-google-scholar"></i> <a href="https://scholar.google.co.uk/citations?user=TYPFuiQAAAAJ&hl=en"><code>https://scholar.google.co.uk</code></a> -->
 + <i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Shouyong-Jiang"><code>https://www.researchgate.net/profile/Shouyong-Jiang</code></a>
@@ -53,7 +53,6 @@ __De Montfort University, Leicester, UK__, PhD in Computer Science. Dissertation
 `9/2011 - 7/2013`
 __Northeastern University, Shenyang, China__, MSc in Control Systems.
 
-- 
 `9/2007 - 7/2011`
 __Northeastern University, Shenyang, China__, BSc in Mathematics.
 
@@ -76,14 +75,27 @@ Research Associate, ICOS Group, Newcastle University, Newcastle upon Tyne, UK.
 '2013'
 Ph.D Researcher, Centre for Computational Intelligence, De Montfort University, Leicester, UK.
 
-## Awards
+## Honors & Awards
 
 `2021`
 *Outstanding PhD Dissertation Award*, Computational Intelligence Society (CIS), IEEE
 
+'2017'
+*Doctoral Thesis Prize*, De Montfort University, UK
+
 '2016'
 *Outstanding Students Abroad*, China Scholarship Council (CIS)
 
+*Travel Bursary*, PPSN Conference, Edinburg, UK
+
+'2015'
+*Travel Award*, UKCI Conference, Exeter, UK
+
+'2014'
+*Conference & Travel Award*, De Montfort University, UK
+
+'2013'
+PhD Research Scholarship, EPSRC + De Montfort University, UK
 
 
 ## Publications

@@ -17,8 +17,12 @@ He is currently an assistant professor at the Department of Computing Science, U
 Research Interest
 ======
 Data-driven decision making
+
 Artificial intelligence and machine learning
+
 Nature-inspired (multi-objective) optimisation (planning, scheduling, logistics, etc.)
+
 Computational modelling (biosystems, controlled environment agriculture, etc.)
+
 Systems approaches to metablic engineering design, strain development and biotechnology
 

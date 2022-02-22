@@ -39,7 +39,7 @@ Updated:
 + &nbsp; &nbsp;<i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0001-5099-2093"><code>https://orcid.org/0000-0001-5099-2093</code></a> -->
 
 <!-- style= "margin-top:0px; margin-left:620px"> -->
-<center>
+<left>
 <table style= "margin-top:0px; margin-left:50px">
  <tr>
     <td>
@@ -56,7 +56,7 @@ Updated:
 		&nbsp; &nbsp;<i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0001-5099-2093"><code>https://orcid.org/0000-0001-5099-2093</code></a></td>
  </tr>
 </table>
-</center>
+</left>
 
 
 

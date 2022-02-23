@@ -1,7 +1,7 @@
 ---
 title: "University of Aberdeen"
 collection: teaching
-<!-- type: "Undergraduate course" -->
+type: "UG/PG Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Department of Computer Science"
 date: 2021-11-01

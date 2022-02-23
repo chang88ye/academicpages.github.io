@@ -1,14 +1,20 @@
 ---
-title: "Teaching experience 2"
+title: "University of Lincoln"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+date: 2019-10-01
+location: "Lincoln, UK"
 ---
+Founder and Programme Lead of MSc in Data Science and Applied Analytics
 
-This is a description of a teaching experience. You can use markdown like any other post.
+CMP3751 Machine Learning (Module Coordinator, Lincoln)
+
+CMP3972 Big Data (Instructor, Lincoln)
+
+CMP1902 Programming Fundamentals (Instructor, Lincoln)
+
 
 Heading 1
 ======

@@ -1,14 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "University of Aberdeen"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+date: 2021-11-01
+location: "Aberdeen, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+CS1527 Object Oriented Programming (Module Coordinator, Aberdeen)
+
+CS551P Advanced Programming (Instructor, Aberdeen)
+
+CS3033 Artificial Intelligence (Instructor, Aberdeen)
 
 Heading 1
 ======

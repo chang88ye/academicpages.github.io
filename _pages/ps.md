@@ -8,11 +8,11 @@ redirect_from:
 
 Editorship
 ======
-Editorial Board Member of Journal of Sensors
-Editorial Board Member of PLoS One
-Guest Editor of Special Issue on Computation Intelligence for Dynamic and Uncertain Environments, CAAI Transactions on Intelligence Technology, 2022-2023
-Guest Editor of Special Issue on Cellular and Metabolic Engineering, Metabolites, 2022-2023
-Guest Editor of Special Issue on Cloud Computing and IoT for Intelligent Applications, Wireless Communications and Mobile Computing, 2021-2022
+- Editorial Board Member of Journal of Sensors
+- Editorial Board Member of PLoS One
+- Guest Editor of Special Issue on Computation Intelligence for Dynamic and Uncertain Environments, CAAI Transactions on Intelligence Technology, 2022-2023
+- Guest Editor of Special Issue on Cellular and Metabolic Engineering, Metabolites, 2022-2023
+- Guest Editor of Special Issue on Cloud Computing and IoT for Intelligent Applications, Wireless Communications and Mobile Computing, 2021-2022
 
 Conference Organisation
 ======

@@ -14,17 +14,17 @@ Web app developed for Grown Agritech's lettuce carbon calculation: https://lettu
 
 Bioinformatics Tools
 =====
-1, OptDesign: https://github.com/chang88ye/OptDesign
-2, NIHBA: https://github.com/chang88ye/NIHBA
+1. OptDesign: https://github.com/chang88ye/OptDesign
+2. NIHBA: https://github.com/chang88ye/NIHBA
 
 Stationary Multi-objective Optimization
 =====
-1, SPEA/R
-2, AREA
-3, eMOEAD
+1. SPEA/R
+2. AREA
+3. eMOEAD
 
 Dynamic Multi-ojective Optimization
 =====
-1, SGEA
-2, Drill
+1. SGEA
+2. Drill
 

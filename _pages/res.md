@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Resources"
-permalink: /ps/
+permalink: /res/
 author_profile: true
 redirect_from: 
   - /res/

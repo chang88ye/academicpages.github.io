@@ -13,6 +13,9 @@ main:
   - title: "Professional Services"
   - url: /ps/
   
+  - title: "Resources"
+  - url: /res/
+  
   - title: "CV"
   - url: /cv/
     

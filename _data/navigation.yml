@@ -16,6 +16,9 @@ main:
   - title: "Resources"
     url: /res/
   
+  - title: "Events"
+    url:/events/
+    
   - title: "CV"
     url: /cv/
     

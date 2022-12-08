@@ -16,8 +16,8 @@ Editorship
 
 Conference Organisation
 ======
-Chair of Special Session on Optimization Methods for Bioinformatics and  Bioengineering, IEEE Congress on Evolutionary Computation (CEC) 2023
-Organizor of Competition on Dynamic Multi-Objective Optimization,  IEEE Congress on Evolutionary Computation (CEC) 2018
+* Chair of Special Session on Optimization Methods for Bioinformatics and  Bioengineering, IEEE Congress on Evolutionary Computation (CEC) 2023
+* Organizor of Competition on Dynamic Multi-Objective Optimization,  IEEE Congress on Evolutionary Computation (CEC) 2018
 
 Conference Program Committee Member
 ======
@@ -25,8 +25,8 @@ I serve as a PC member of 10+ international conferences.
 
 Membership
 ======
-Member of IEEE CIS Bioinformatics and Bioengineering Technical Committee (BBTC)
-Member of IEEE CIS Task Force on Optimization Methods in Bioinformatics and Bioengineering (OBMM)
-Member of IEEE Task Force on Evolutionary Computation for Dynamic and Uncertain Environments
-IEEE Member
-Fellow of Higher Education Academy
+* Member of IEEE CIS Bioinformatics and Bioengineering Technical Committee (BBTC)
+* Member of IEEE CIS Task Force on Optimization Methods in Bioinformatics and Bioengineering (OBMM)
+* Member of IEEE Task Force on Evolutionary Computation for Dynamic and Uncertain Environments
+* IEEE Member
+* Fellow of Higher Education Academy

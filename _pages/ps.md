@@ -1,6 +1,7 @@
 ---
-permalink: /
+permalink: /ps/
 title: "Professional Services"
+author_profile: true
 redirect_from: 
   - /ps/
   - /ps.html

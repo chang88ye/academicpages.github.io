@@ -11,13 +11,13 @@ main:
     url: /publications/
 
   - title: "Professional Services"
-  - url: /ps/
+    url: /ps/
   
   - title: "Resources"
-  - url: /res/
+    url: /res/
   
   - title: "CV"
-  - url: /cv/
+    url: /cv/
     
  
 

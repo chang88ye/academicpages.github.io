@@ -12,6 +12,9 @@ main:
 
   - title: "CV"
     url: /cv/
+    
+  - title: "Professional Services"
+  - url: /ps/
 
 #   - title: "News"
 #     url: /news/ 

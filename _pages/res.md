@@ -1,7 +1,11 @@
 ---
 layout: archive
 title: "Resources"
+permalink: /ps/
 author_profile: true
+redirect_from: 
+  - /res/
+  - /res.html
 ---
 
 Carbon Calculator

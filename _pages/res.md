@@ -3,9 +3,6 @@ layout: archive
 title: "Resources"
 permalink: /res/
 author_profile: true
-redirect_from: 
-  - /res/
-  - /res.html
 ---
 
 Carbon Calculator

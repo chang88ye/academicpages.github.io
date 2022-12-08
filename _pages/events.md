@@ -1,6 +1,6 @@
 ---
 permalink: /events/
-title: "events"
+title: "Events"
 ---
 
 News

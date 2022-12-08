@@ -10,11 +10,13 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "CV"
-    url: /cv/
-    
   - title: "Professional Services"
   - url: /ps/
+  
+  - title: "CV"
+  - url: /cv/
+    
+ 
 
 #   - title: "News"
 #     url: /news/ 

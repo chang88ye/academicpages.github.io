@@ -7,12 +7,12 @@ author_profile: true
 
 Carbon Calculator
 =====
-Web app developed for Grown Agritech's lettuce carbon calculation: https://lettuce-carbon-calculator.onrender.com/
+Web app developed for Grown Agritech's lettuce carbon calculation: [https://lettuce-carbon-calculator.onrender.com/](https://lettuce-carbon-calculator.onrender.com/)
 
 Bioinformatics Tools
 =====
-1. OptDesign: https://github.com/chang88ye/OptDesign
-2. NIHBA: https://github.com/chang88ye/NIHBA
+1. OptDesign: [https://github.com/chang88ye/OptDesign](https://github.com/chang88ye/OptDesign)
+2. NIHBA: [https://github.com/chang88ye/NIHBA](https://github.com/chang88ye/NIHBA)
 
 Stationary Multi-objective Optimization
 =====

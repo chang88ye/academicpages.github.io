@@ -1,4 +1,4 @@
-A Github Pages template for academic websites. 
+A Github Pages template for my academic website: chang88ye.github.io/about. 
 
 # Instructions
 

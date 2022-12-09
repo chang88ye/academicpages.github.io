@@ -10,4 +10,3 @@ There is no news at the moment
 Conferences
 ======
 - [CEC2023 Special Session on OMBB](/homepage/events/CEC2023-OMBB/index.html)
-- [here](/test)

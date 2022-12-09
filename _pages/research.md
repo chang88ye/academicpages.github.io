@@ -3,6 +3,11 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+gallery:
+  - url: research/networkdesign.png
+    image_path: research/networkdesign.png
+    alt: "networkdesign"
+    title: "networkdesign"
 ---
 
 My academic research falls into three main areas: 1) understanding nature-inspired AI agents and 
@@ -16,3 +21,8 @@ optimization problems, for which multiple optimisation objectives/constraints ma
 
 In a new avenue of research, I leverage omics data to explore data-driven methods in conjunction with genome-scale metabolic
 models to eludicate microbial cell metabolism, gaining insights into plastic metabolic phenotypes.
+
+Computational Biology
+=====
+In silico ration design of metabolic networks for biochemical overproduction
+{% include gallery %}

@@ -8,13 +8,13 @@ Editorship
 ======
 - Editorial Board Member of Journal of Sensors
 - Editorial Board Member of PLoS One
-- Guest Editor of Special Issue on Computation Intelligence for Dynamic and Uncertain Environments, CAAI Transactions on Intelligence Technology, 2022-2023
-- Guest Editor of Special Issue on Cellular and Metabolic Engineering, Metabolites, 2022-2023
+- Guest Editor of [Special Issue on Computation Intelligence for Dynamic and Uncertain Environments](https://ietresearch.onlinelibrary.wiley.com/pb-assets/assets/24682322/Special%20Issues/IET_CIT_CFP_CIDUE-1668524083830.pdf), CAAI Transactions on Intelligence Technology, 2022-2023
+- Guest Editor of [Special Issue on Cellular and Metabolic Engineering](https://www.mdpi.com/journal/metabolites/special_issues/Cell_Metab_Eng), Metabolites, 2022-2023
 - Guest Editor of Special Issue on Cloud Computing and IoT for Intelligent Applications, Wireless Communications and Mobile Computing, 2021-2022
 
 Conference Organisation
 ======
-* Chair of Special Session on Optimization Methods for Bioinformatics and  Bioengineering, IEEE Congress on Evolutionary Computation (CEC) 2023
+* Chair of [Special Session on Optimization Methods for Bioinformatics and  Bioengineering](https://chang88ye.github.io/homepage/events/CEC2023-OMBB/index.html), IEEE Congress on Evolutionary Computation (CEC) 2023
 * Organizor of Competition on Dynamic Multi-Objective Optimization,  IEEE Congress on Evolutionary Computation (CEC) 2018
 
 Conference Program Committee Member

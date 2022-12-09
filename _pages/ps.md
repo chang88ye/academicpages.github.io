@@ -15,7 +15,7 @@ Editorship
 Conference Organisation
 ======
 * Chair of [Special Session on Optimization Methods for Bioinformatics and  Bioengineering](https://chang88ye.github.io/homepage/events/CEC2023-OMBB/index.html), IEEE Congress on Evolutionary Computation (CEC) 2023
-* Organizor of Competition on Dynamic Multi-Objective Optimization,  IEEE Congress on Evolutionary Computation (CEC) 2018
+* Organizer of Competition on Dynamic Multi-Objective Optimization,  IEEE Congress on Evolutionary Computation (CEC) 2018
 
 Conference Program Committee Member
 ======

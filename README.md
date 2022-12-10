@@ -10,7 +10,7 @@ A Github Pages template for my academic website: https://chang88ye.github.io/hom
 1. Check status by going to the repository settings, in the "GitHub pages" section
 1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
-See more info at https://academicpages.github.io/
+This is created based on https://academicpages.github.io/
 Additional reading materials: https://jayrobwilliams.com/posts/2020/08/website-content/
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)

@@ -12,9 +12,9 @@ main:
 
   - title: "Professional Services"
     url: /ps/
-  
+    
   - title: "Talks"
-     url: /talks/ 
+    url: /talks/ 
      
   - title: "Resources"
     url: /res/

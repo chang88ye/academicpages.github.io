@@ -17,7 +17,7 @@ Bioinformatics Tools
 Stationary Multi-objective Optimization
 =====
 1. SPEA/R
-2. AREA
+2. [AREA](https://github.com/chang88ye/AREA)
 3. eMOEAD
 
 Dynamic Multi-ojective Optimization

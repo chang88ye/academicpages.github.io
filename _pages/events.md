@@ -10,7 +10,7 @@ There is no news at the moment
 Journal Special Issues
 =====
 - [Special Issue on Computation Intelligence for Dynamic and Uncertain Environments](https://ietresearch.onlinelibrary.wiley.com/pb-assets/assets/24682322/Special%20Issues/IET_CIT_CFP_CIDUE-1668524083830.pdf), CAAI Transactions on Intelligence Technology, deadline: 30th April 2023.
-- [Special Issue on Cellular and Metabolic Engineering](https://www.mdpi.com/journal/metabolites/special_issues/Cell_Metab_Eng), Metabolites, deadline: 31st May 20203.
+- [Special Issue on Cellular and Metabolic Engineering](https://www.mdpi.com/journal/metabolites/special_issues/Cell_Metab_Eng), Metabolites, deadline: 31st May 2023.
 
 Conferences
 ======

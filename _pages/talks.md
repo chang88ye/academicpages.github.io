@@ -7,7 +7,10 @@ author_profile: true
 
 "When computational intelligence meets biology", invited talk, Shantou University, UK, 2022
 
-"AI and computational modelling for complex biosystems", invited talk, Department of Physics, Aberdee, 11.2022
+"AI and computational modelling for complex biosystems", invited talk, Department of Physics, Aberdeen, Nov. 2022
+
+“Data-driven modelling and design of productive microbial systems for biomanufacturing”, invited talk, University of Nottingham, Pa-Ccnet, UK,
+Sep. 2022.
 
 “Metabolic games in metabolic engineering design”, invited talk, Newcastle University, UK, Jan., 2020.
 

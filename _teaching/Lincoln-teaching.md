@@ -4,7 +4,7 @@ collection: teaching
 type: "UG/PG Course"
 permalink: /teaching/Lincoln-teaching
 venue: "School of Computer Science"
-date: 2020-2021
+date: 2019-10-01
 location: "Lincoln, UK"
 ---
 

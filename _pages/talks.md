@@ -9,6 +9,10 @@ author_profile: true
 
 "AI and computational modelling for complex biosystems", invited talk, Department of Physics, Aberdeen, Nov. 2022
 
+“Dynamic multi-objective optimisation and its application to biotechnology”, Northeastern University, Oct. 2022
+
+"What can AI do to biology and design of experiments?", China Pharmaceutical University, Oct. 2022.
+
 “Data-driven modelling and design of productive microbial systems for biomanufacturing”, invited talk, University of Nottingham, Pa-Ccnet, UK,
 Sep. 2022.
 

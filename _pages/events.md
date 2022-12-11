@@ -5,7 +5,7 @@ title: "Events"
 
 News
 ======
-There is no news at the moment
+Machine Learning in Computational Fluid Dynamics, Summer School, Northwestern Polytechnical University, 28 June - 15 August, 2022.
 
 Journal Special Issues
 =====

@@ -16,12 +16,12 @@ Bioinformatics Tools
 
 Stationary Multi-objective Optimization
 =====
-1. SPEA/R
-2. [AREA](https://github.com/chang88ye/AREA)
-3. eMOEAD
+1. SPEA/R: [MATLAB](https://github.com/BIMK/PlatEMO/tree/master/PlatEMO/Algorithms/Multi-objective%20optimization/SPEA-R), [C++](https://github.com/chang88ye/Archived-Algorithms/blob/main/SPEAR.zip)
+2. [AREA](https://github.com/chang88ye/AREA):[https://github.com/chang88ye/AREA](https://github.com/chang88ye/AREA)
+3. eMOEAD: [C++](https://github.com/chang88ye/Archived-Algorithms/blob/main/eMOEAD.tar.gz)
 
 Dynamic Multi-ojective Optimization
 =====
-1. [SGEA](https://github.com/chang88ye/SGEA): [https://github.com/chang88ye/SGEA](https://github.com/chang88ye/SGEA)
+1. [SGEA]: [MATLAB](https://github.com/chang88ye/SGEA), [C++](https://github.com/chang88ye/Archived-Algorithms/blob/main/SGEA.tar.gz)
 2. Drill
 

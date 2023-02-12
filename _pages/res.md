@@ -22,6 +22,6 @@ Stationary Multi-objective Optimization
 
 Dynamic Multi-ojective Optimization
 =====
-1. [SGEA](https://github.com/chang88ye/SGEA): https://github.com/chang88ye/SGEA
+1. [SGEA](https://github.com/chang88ye/SGEA): [https://github.com/chang88ye/SGEA](https://github.com/chang88ye/SGEA)
 2. Drill
 

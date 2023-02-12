@@ -17,7 +17,7 @@ Bioinformatics Tools
 Stationary Multi-objective Optimization
 =====
 1. SPEA/R: [MATLAB](https://github.com/BIMK/PlatEMO/tree/master/PlatEMO/Algorithms/Multi-objective%20optimization/SPEA-R), [C++](https://github.com/chang88ye/Archived-Algorithms/blob/main/SPEAR.zip)
-2. [AREA](https://github.com/chang88ye/AREA):[https://github.com/chang88ye/AREA](https://github.com/chang88ye/AREA)
+2. AREA: [MATLAB](https://github.com/chang88ye/AREA)
 3. eMOEAD: [C++](https://github.com/chang88ye/Archived-Algorithms/blob/main/eMOEAD.tar.gz)
 
 Dynamic Multi-ojective Optimization

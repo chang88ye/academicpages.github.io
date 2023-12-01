@@ -67,37 +67,37 @@ Updated:
 
 ## 教育经历 Education
 
-`2013.11 -- 2017.3`
+`2013.11 - 2017.3`
 英国德蒙福特大学，__计算机博士__，导师：Prof. Shengxiang Yang。论文题目：Evolutionary Algorithms for Multi-objective Optimisation in Static and Dynamic Environments。
 
-`2011.9 -- 2013.7`
+`2011.9 - 2013.7`
 东北大学，__控制科学与工程硕士__, 导师：李鸿儒教授。
 
-`2007.9 -- 2011.7` 东北大学，__理学学士__。
+`2007.9 - 2011.7` 东北大学，__理学学士__。
 
 ## 学术经历 | Academic Career
 
-`2023 -- 至今` 
+`2023 - 至今` 
 中南大学教授，自动化学院。
 
-`2021 -- 2023` 
+`2021 - 2023` 
 英国阿伯丁大学助理教授，自然与计算学院。
 
-`2019 -- 2021` 
+`2019 - 2021` 
 英国林肯大学助理教授，计算机学院。
 
-`2018.4 -- 2018.6` 
+`2018.4 - 2018.6` 
 苏黎世联邦理工大学访问学者，计算生物中心。
 
-`2018.1 -- 2018.3` 
+`2018.1 - 2018.3` 
 西班牙维戈大学访问学者，生物工程研究中心。
 
-`2017 -- 2019`
+`2017 - 2019`
 英国纽卡斯尔大学博士后，计算机学院，合作导师：Natalio Krasnogor和Marcus Kaiser。
 
 ## 进修经历 Further Learning
 
-`2020.1 -- 2021.12` 英国林肯大学，高等教育专业进修学位，获全球认证的高等教育HEA Fellow。
+`2020.1 - 2021.12` 英国林肯大学，高等教育专业进修学位，获全球认证的高等教育HEA Fellow。
 
 
 ## 荣誉与奖励 | Honors & Awards
@@ -141,70 +141,70 @@ Updated:
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### 部分杂志论文 | Journals
-`2023`
+1. 
 __S. Jiang__, Y. Wang, Y. Hu, Q. Zhang, S. Yang, "Vector autoregressive evolution for dynamic multi-objective optimization", 2023.
 
-Y. Hu, J. Zheng, __S. Jiang__\*, Y. Jiang, J. Zou, R. Wang, "A Mahalanobis distance -based approach for dynamic multi-objective optimization with stochastic changes," IEEE Transactions on Evolutionary Computation, in press, 2023.
+1. Y. Hu, J. Zheng, __S. Jiang__\*, Y. Jiang, J. Zou, R. Wang, "A Mahalanobis distance -based approach for dynamic multi-objective optimization with stochastic changes," IEEE Transactions on Evolutionary Computation, in press, 2023.
 
-L. Wang, Q. Zhang, X. He, S. Yang, __S. Jiang__, Y. Dong, "Biological survival optimization algorithm with its engineering and neural network applications," Soft Computing, vol, 27, no. 10, pp. 6437--6463, 2023.
+1. L. Wang, Q. Zhang, X. He, S. Yang, __S. Jiang__, Y. Dong, "Biological survival optimization algorithm with its engineering and neural network applications," Soft Computing, vol, 27, no. 10, pp. 6437--6463, 2023.
 
-Q. Zhang, X. He, S. Yang, Y. Dong, H. Song, __S. Jiang__, "Solving dynamic multi-objective problems using polynomial fitting-based prediction algorithm," Information Sciences, vol. 610, pp. 868--886, 2023.
+1. Q. Zhang, X. He, S. Yang, Y. Dong, H. Song, __S. Jiang__, "Solving dynamic multi-objective problems using polynomial fitting-based prediction algorithm," Information Sciences, vol. 610, pp. 868--886, 2023.
 
-`2022`
+1.
 __S. Jiang__\*, J. Zou; S. Yang, X. Yao, "Evolutionary dynamic multi-objective optimisation: A survey," ACM Computing Surveys, 55(4), 1-47, 2022.
 
-__S. Jiang__\*, I. Otero-Muras, Julio R Banga, Yong Wang, Marcus Kaiser, Natalio Krasnogor, "OptDesign: Identifying optimum design strategies in strain engineering for biochemical production," ACS Synthetic Biology, 11(4), 1531-1541, 2022.
+1. __S. Jiang__\*, I. Otero-Muras, Julio R Banga, Yong Wang, Marcus Kaiser, Natalio Krasnogor, "OptDesign: Identifying optimum design strategies in strain engineering for biochemical production," ACS Synthetic Biology, 11(4), 1531-1541, 2022.
 
-Y. Hu, J. Zheng, __S. Jiang__\*, et al., "Handling Dynamic Multi-objective Optimization Environments via Layered Prediction and Subspace-based Diversity Maintenance", IEEE Transactions on Cybernetics, vol. 53, no. 4, pp. 2572--2585, 2022.
+1. Y. Hu, J. Zheng, __S. Jiang__\*, et al., "Handling Dynamic Multi-objective Optimization Environments via Layered Prediction and Subspace-based Diversity Maintenance", IEEE Transactions on Cybernetics, vol. 53, no. 4, pp. 2572--2585, 2022.
 
-J. Liu, Y. Wang, P.Q. Huang and __S. Jiang__, "CaR: A cutting and repulsion-Based evolutionary framework for mixed-integer programming problems," IEEE Transactions on Cybernetics, vol. 52, no. 12, pp. 13129--13141, 2022.
+1. J. Liu, Y. Wang, P.Q. Huang and __S. Jiang__, "CaR: A cutting and repulsion-Based evolutionary framework for mixed-integer programming problems," IEEE Transactions on Cybernetics, vol. 52, no. 12, pp. 13129--13141, 2022.
 
-`2021`
+1. 
 L. Gong, M. Yu, __S. Jiang__, V. Cutsuridis, S. Kollias, S. Pearson, "Deep Learning Based Prediction on Greenhouse Crop Yield Combined TCN and RNN," Sensors, 21(13), 4537.
 
-Q Y Zhang, X Y He, Y Q Dong, __S Jiang__, and H Song, "Optimizing the Flight Route of UAV Using Biology Migration Algorithm", Journal of Physics: Conference Series 2025 012052, 2021.
+1. Q Y Zhang, X Y He, Y Q Dong, __S Jiang__, and H Song, "Optimizing the Flight Route of UAV Using Biology Migration Algorithm", Journal of Physics: Conference Series 2025 012052, 2021.
 
-L. Gong, M. Yu, __S. Jiang__, V. Cutsuridis, S. Kollias, S. Pearson, "Studies of Evolutionary Algorithms for The Reduced Tomgro Model Calibration for Modelling", Smart Agricultural Technology 1, 100011.
+1. L. Gong, M. Yu, __S. Jiang__, V. Cutsuridis, S. Kollias, S. Pearson, "Studies of Evolutionary Algorithms for The Reduced Tomgro Model Calibration for Modelling", Smart Agricultural Technology 1, 100011.
 
-Q. Zhang, __S. Jiang__, S. Yang, H. Song, "Solving Dynamic Multi-objective Problems with A New Prediction-based Optimization Algorithm", PLOS One, 16(8), e0254839.
+1. Q. Zhang, __S. Jiang__, S. Yang, H. Song, "Solving Dynamic Multi-objective Problems with A New Prediction-based Optimization Algorithm", PLOS One, 16(8), e0254839.
 
-Y. Hu, J. Zheng, __S. Jiang__\*, et al., “Dynamic Multi-Objective Optimization Algorithm Based Decomposition”, Information Sciences, vol. 571, pp. 175--190, 2021.
+1. Y. Hu, J. Zheng, __S. Jiang__\*, et al., “Dynamic Multi-Objective Optimization Algorithm Based Decomposition”, Information Sciences, vol. 571, pp. 175--190, 2021.
 
-B．Alhnaity, S. Kollias, G. Leontidis, __S. Jiang__, B. Schamp, S. Pearson, “An autoencoder wavelet based deep neural network with attention mechanism for multi-step prediction of plant growth,” Information Sciences, 560: 35–50, 2021. 
+1. B．Alhnaity, S. Kollias, G. Leontidis, __S. Jiang__, B. Schamp, S. Pearson, “An autoencoder wavelet based deep neural network with attention mechanism for multi-step prediction of plant growth,” Information Sciences, 560: 35–50, 2021. 
 
-`2020`
+1. 
 V. Cutsuridis, __S. Jiang__, M. J. Dunn, A. Rosser, J. Brawn, J.T. Erichsen, "Neural modelling of antisaccade performance of healthy controls and early huntington’s disease patients," Chaos, 31(1), 013121, 2020. 
 
-__S. Jiang__\*, Y. Wang, M. Kaiser, N. Krasnogor, “NIHBA: A network interdiction approach for metabolic engineering design”, Bioinformatics, vol. 36, no. 11, 3482–3492, 2020.
+1. __S. Jiang__\*, Y. Wang, M. Kaiser, N. Krasnogor, “NIHBA: A network interdiction approach for metabolic engineering design”, Bioinformatics, vol. 36, no. 11, 3482–3492, 2020.
 
-J. Guo, Y. Wu, W. Xie, __S. Jiang__, “Triangular Gaussian mutation to differential evolution”, Soft Computing, 24(12), 9307 - 9320, 2019.
+1. J. Guo, Y. Wu, W. Xie, __S. Jiang__, “Triangular Gaussian mutation to differential evolution”, Soft Computing, 24(12), 9307 - 9320, 2019.
 
-`2019`
+1. 
 Q. Zhang, __S. Yang__, __S. Jiang__, R. Wang, X. Li, “Novel prediction strategies for dynamic multi-objective optimization”, IEEE Transactions on Evolutionary Computation, vol. 24, no. 2, 260-274, 2019.
 
-Y. Wang, J. Yu, S. Yang, __S. Jiang__, and S. Zhao, “Evolutionary dynamic constrained optimization: Test suite construction and algorithm comparisons”, Swarm and Evolutionary Computation, vol. 50, 2019, 100559.
+1. Y. Wang, J. Yu, S. Yang, __S. Jiang__, and S. Zhao, “Evolutionary dynamic constrained optimization: Test suite construction and algorithm comparisons”, Swarm and Evolutionary Computation, vol. 50, 2019, 100559.
 
-__S. Jiang__\*, M. Kaiser, S. Yang, S. Kollias, and N. Krasnogor\*, “A scalable test suite for continuous dynamic multiobjective optimisation”, IEEE Transactions on Cybernetics, vol. 50, no. 6, 2814 – 2826, 2019.
+1. __S. Jiang__\*, M. Kaiser, S. Yang, S. Kollias, and N. Krasnogor\*, “A scalable test suite for continuous dynamic multiobjective optimisation”, IEEE Transactions on Cybernetics, vol. 50, no. 6, 2814 – 2826, 2019.
 
-`2018`
+1. 
 __S. Jiang__, S. Yang, Y. Wang, and X. Liu, “Scalarizing functions in decomposition-based evolutionary algorithms”, IEEE Transactions on Evolutionary Computation, vol. 22, no. 2, pp. 296—313, 2018. 
 
-H. Li, J. Hu, and __S. Jiang__, “A hybrid PSO based on dynamic clustering for global optimization”, IFAC-PapersOnline, vol. 51, no. 8, pp. 269—274, 2018.
+1. H. Li, J. Hu, and __S. Jiang__, “A hybrid PSO based on dynamic clustering for global optimization”, IFAC-PapersOnline, vol. 51, no. 8, pp. 269—274, 2018.
 
-__S. Yang__, __S. Jiang__, and Y. Jiang, “Improving the multiobjective evolutionary algorithm based on decomposition with new penalty schemes,” Soft Computing, vol. 17, no. 16, pp. 4677—4691, 2017. 
+1. __S. Yang__, __S. Jiang__, and Y. Jiang, “Improving the multiobjective evolutionary algorithm based on decomposition with new penalty schemes,” Soft Computing, vol. 17, no. 16, pp. 4677—4691, 2017. 
 
 
-`2017`
+1. 
 __S. Jiang__ and S. Yang, “A steady-state and generational evolutionary algorithm for dynamic multiobjective optimization,” IEEE Transactions on Evolutionary Computation, vol. 21, no. 1, pp. 65—82, 2017.
 
-__S. Jiang__ and S. Yang, “A strength Pareto evolutionary algorithm based on reference direction for multiobective and many-objective optimization,” IEEE Transactions on Evolutionary Computation, vol. 21, no. 3, pp. 329—346, 2017.
+1. __S. Jiang__ and S. Yang, “A strength Pareto evolutionary algorithm based on reference direction for multiobective and many-objective optimization,” IEEE Transactions on Evolutionary Computation, vol. 21, no. 3, pp. 329—346, 2017.
 
-__S. Jiang__ and S. Yang, “Evolutionary dynamic multi-objective optimization: benchmarks and algorithm comparisons,” IEEE Transactions on Cybernetics, vol. 47, no.1, pp. 198—211, 2017.
+1. __S. Jiang__ and S. Yang, “Evolutionary dynamic multi-objective optimization: benchmarks and algorithm comparisons,” IEEE Transactions on Cybernetics, vol. 47, no.1, pp. 198—211, 2017.
 
-`2016`
+1. 
 __S. Jiang__ and S. Yang, “An improved multiobjective optimization evolutionary algorithm based on decomposition for complex Pareto fronts,” IEEE Transactions on Cybernetics, vol. 46, no. 2, pp. 421—437, 2016.
 
-`2014`
+1. 
 W. Qian, H. Hou and __S. Jiang__, “New self-adaptive cuckoo search algorithm,” Computer Science (China), vol. 41, no. 7, pp.279-282, Jun. 2014.
 
 

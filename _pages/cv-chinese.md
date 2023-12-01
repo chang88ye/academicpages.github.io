@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /cv-chinese/
 author_profile: true
 ---
 

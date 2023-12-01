@@ -86,10 +86,10 @@ Updated:
 `2019 -- 2021` 
 英国林肯大学助理教授，计算机学院。
 
-`2018.4 -2018.6` 
+`2018.4 -- 2018.6` 
 苏黎世联邦理工大学访问学者，计算生物中心。
 
-`2018.1 -2018.3` 
+`2018.1 -- 2018.3` 
 西班牙维戈大学访问学者，生物工程研究中心。
 
 `2017 -- 2019`
@@ -123,19 +123,18 @@ Updated:
 *全额博士奖学金*, 80万人民币，英国工程和自然科学研究委员会EPSRC与德蒙福特大学共同资助。
 
 ## 科研项目 | Funding
-
-（1）国家自然科学基金面上项目，62376288，带有时变决策空间特征的动态多目标优化与应用，2024/01 - 2027/12，49万元，在研，主持。
-（2）国家自然科学基金优秀青年（海外）项目，动态多目标优化与应用，2023/01起，在研，主持。
-（3）英国工程和自然科学研究委员会EPSRC面上项目，EP/X041239/1，Cell factory design: unlocking the Multi-Objective Stochastic meTabolic game (MOST)，2023/01 - 2025/12，360万元，在研，主持。
-（4）苏格兰基金委员会，Agricultural Crop Carbon Fixation， 2022/09 - 2023/03, 10万元，已结题，主持。
-（5）创新英国创新项目，Pre-assembled natural stone cladding system with mechanical fixings，2022/10-2025/09, 260万元，在研，共同主持。
-（6）苏格兰基金委员会，Modelling to develop a robust, evidence-based tool/methodology for assessing the carbon footprint of indoor food production， £20K, Scottish Food and Drink Net Zero Challenge, 2022/03 -2022/09, 20万元，已结题，主持。 
-（7）国家自然科学基金委员会与英国皇家学会合作交流项目,IEC\NSFC\211404, MOCTE: An investigation of multi- objective optimisation in constrained time-varying environments, 2022/04 - 2024/03, 10万元, 在研, 主持。
-（8）英国生物技术与生物科学研究委员会面上项目, RG16134-18, Data-driven modelling and metabolic redirection in Bacillus subtilis (DeMoRBS), 2022/01 - 2022/12, 10万元, 已结题, 主持。
-（9）	国家自然科学基金面上项目，61976225，进化算法求解复杂混合整数规划问题及应用，2020/01 - 2013/12，58万元，在研，参与。
-（10）欧盟北海区域发展重大专项项目，SMARTGREEN： Big data and eco-innovative res ource use in the NSR greenhouse industry - greening the growth in horticultural production，2017/09 - 2022/08, 3000万元，已结题，共同主持。
-（11）英国工程和自然科学研究委员会EPSRC面上项目，Synthetic Portabolomics: Leading the way at the crossroads of the digital and the bio economies，2016/09 - 2021/12, 7000万元，已结题，参与。
-（12）英国工程和自然科学研究委员会EPSRC面上项目，ECDONE: Evolutionary computation for dynamic optimisation in network environments, 2013 - 2017, 950万元, 已结题，参与。
+1. 国家自然科学基金面上项目，62376288，带有时变决策空间特征的动态多目标优化与应用，2024/01 - 2027/12，49万元，在研，主持。
+1. 国家自然科学基金优秀青年（海外）项目，动态多目标优化与应用，2023/01起，在研，主持。
+1. 英国工程和自然科学研究委员会EPSRC面上项目，EP/X041239/1，Cell factory design: unlocking the Multi-Objective Stochastic meTabolic game (MOST)，2023/01 - 2025/12，360万元，在研，主持。
+1. 苏格兰基金委员会，Agricultural Crop Carbon Fixation， 2022/09 - 2023/03, 10万元，已结题，主持。
+1. 创新英国创新项目，Pre-assembled natural stone cladding system with mechanical fixings，2022/10-2025/09, 260万元，在研，共同主持。
+1. 苏格兰基金委员会，Modelling to develop a robust, evidence-based tool/methodology for assessing the carbon footprint of indoor food production， £20K, Scottish Food and Drink Net Zero Challenge, 2022/03 -2022/09, 20万元，已结题，主持。 
+1. 国家自然科学基金委员会与英国皇家学会合作交流项目,IEC\NSFC\211404, MOCTE: An investigation of multi- objective optimisation in constrained time-varying environments, 2022/04 - 2024/03, 10万元, 在研, 主持。
+1. 英国生物技术与生物科学研究委员会面上项目, RG16134-18, Data-driven modelling and metabolic redirection in Bacillus subtilis (DeMoRBS), 2022/01 - 2022/12, 10万元, 已结题, 主持。
+1. 国家自然科学基金面上项目，61976225，进化算法求解复杂混合整数规划问题及应用，2020/01 - 2013/12，58万元，在研，参与。
+1. 欧盟北海区域发展重大专项项目，SMARTGREEN： Big data and eco-innovative res ource use in the NSR greenhouse industry - greening the growth in horticultural production，2017/09 - 2022/08, 3000万元，已结题，共同主持。
+1. 英国工程和自然科学研究委员会EPSRC面上项目，Synthetic Portabolomics: Leading the way at the crossroads of the digital and the bio economies，2016/09 - 2021/12, 7000万元，已结题，参与。
+1. 英国工程和自然科学研究委员会EPSRC面上项目，ECDONE: Evolutionary computation for dynamic optimisation in network environments, 2013 - 2017, 950万元, 已结题，参与。
 
 ## 科研成果 | Publications
 

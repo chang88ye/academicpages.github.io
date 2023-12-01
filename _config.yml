@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Shouyong Jiang"
   avatar           : "photo-Jiang.jpg"
-  bio              : "Assistant Professor, University of Aberdeen, UK"
-  location         : "Aberdeen"
+  bio              : "Computer Scientist" # Assistant Professor, University of Aberdeen, UK
+  location         : "Unknown"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=TYPFuiQAAAAJ&hl=en"

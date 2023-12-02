@@ -181,8 +181,7 @@ Updated:
 
 1. __S. Jiang__\*, M. Kaiser, S. Yang, S. Kollias, and N. Krasnogor\*, “A scalable test suite for continuous dynamic multiobjective optimisation”, IEEE Transactions on Cybernetics, vol. 50, no. 6, 2814 – 2826, 2019.
 
-1. 
-__S. Jiang__, S. Yang, Y. Wang, and X. Liu, “Scalarizing functions in decomposition-based evolutionary algorithms”, IEEE Transactions on Evolutionary Computation, vol. 22, no. 2, pp. 296—313, 2018. 
+1. __S. Jiang__, S. Yang, Y. Wang, and X. Liu, “Scalarizing functions in decomposition-based evolutionary algorithms”, IEEE Transactions on Evolutionary Computation, vol. 22, no. 2, pp. 296—313, 2018. 
 
 1. H. Li, J. Hu, and __S. Jiang__, “A hybrid PSO based on dynamic clustering for global optimization”, IFAC-PapersOnline, vol. 51, no. 8, pp. 269—274, 2018.
 

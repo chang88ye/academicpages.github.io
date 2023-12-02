@@ -169,8 +169,7 @@ Updated:
 
 1. B．Alhnaity, S. Kollias, G. Leontidis, __S. Jiang__, B. Schamp, S. Pearson, “An autoencoder wavelet based deep neural network with attention mechanism for multi-step prediction of plant growth,” Information Sciences, 560: 35–50, 2021. 
 
-1. 
-V. Cutsuridis, __S. Jiang__, M. J. Dunn, A. Rosser, J. Brawn, J.T. Erichsen, "Neural modelling of antisaccade performance of healthy controls and early huntington’s disease patients," Chaos, 31(1), 013121, 2020. 
+1. V. Cutsuridis, __S. Jiang__, M. J. Dunn, A. Rosser, J. Brawn, J.T. Erichsen, "Neural modelling of antisaccade performance of healthy controls and early huntington’s disease patients," Chaos, 31(1), 013121, 2020. 
 
 1. __S. Jiang__\*, Y. Wang, M. Kaiser, N. Krasnogor, “NIHBA: A network interdiction approach for metabolic engineering design”, Bioinformatics, vol. 36, no. 11, 3482–3492, 2020.
 

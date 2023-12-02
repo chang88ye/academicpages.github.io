@@ -43,10 +43,11 @@ Updated:
 <table style= "margin-top:0px; margin-left:50px">
  <tr>
     <td>
-    	智能学习与优化实验室 <br>
-    	中南大学自动化学院 <br>
-		中国湖南长沙<br>
-		410083<br>
+    	智能学习与优化实验室<br>
+    	中南大学自动化学院<br>
+	    中南大学校本部<br>
+	      中国湖南长沙<br>
+		 410083<br>
     </td>
     <td>
     	&nbsp; &nbsp;<i class="ai ai-google-scholar-square ai-1x"></i> <a href="https://scholar.google.co.uk/citations?user=TYPFuiQAAAAJ&hl=en"><code>https://scholar.google.co.uk</code></a><br>

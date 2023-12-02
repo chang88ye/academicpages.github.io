@@ -141,8 +141,7 @@ Updated:
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### 部分杂志论文 | Journals
-1. 
-__S. Jiang__, Y. Wang, Y. Hu, Q. Zhang, S. Yang, "Vector autoregressive evolution for dynamic multi-objective optimization", 2023.
+1. __S. Jiang__, Y. Wang, Y. Hu, Q. Zhang, S. Yang, "Vector autoregressive evolution for dynamic multi-objective optimization", 2023.
 
 1. Y. Hu, J. Zheng, __S. Jiang__\*, Y. Jiang, J. Zou, R. Wang, "A Mahalanobis distance -based approach for dynamic multi-objective optimization with stochastic changes," IEEE Transactions on Evolutionary Computation, in press, 2023.
 
@@ -150,8 +149,7 @@ __S. Jiang__, Y. Wang, Y. Hu, Q. Zhang, S. Yang, "Vector autoregressive evolutio
 
 1. Q. Zhang, X. He, S. Yang, Y. Dong, H. Song, __S. Jiang__, "Solving dynamic multi-objective problems using polynomial fitting-based prediction algorithm," Information Sciences, vol. 610, pp. 868--886, 2023.
 
-1.
-__S. Jiang__\*, J. Zou; S. Yang, X. Yao, "Evolutionary dynamic multi-objective optimisation: A survey," ACM Computing Surveys, 55(4), 1-47, 2022.
+1. __S. Jiang__\*, J. Zou; S. Yang, X. Yao, "Evolutionary dynamic multi-objective optimisation: A survey," ACM Computing Surveys, 55(4), 1-47, 2022.
 
 1. __S. Jiang__\*, I. Otero-Muras, Julio R Banga, Yong Wang, Marcus Kaiser, Natalio Krasnogor, "OptDesign: Identifying optimum design strategies in strain engineering for biochemical production," ACS Synthetic Biology, 11(4), 1531-1541, 2022.
 
@@ -159,8 +157,7 @@ __S. Jiang__\*, J. Zou; S. Yang, X. Yao, "Evolutionary dynamic multi-objective o
 
 1. J. Liu, Y. Wang, P.Q. Huang and __S. Jiang__, "CaR: A cutting and repulsion-Based evolutionary framework for mixed-integer programming problems," IEEE Transactions on Cybernetics, vol. 52, no. 12, pp. 13129--13141, 2022.
 
-1. 
-L. Gong, M. Yu, __S. Jiang__, V. Cutsuridis, S. Kollias, S. Pearson, "Deep Learning Based Prediction on Greenhouse Crop Yield Combined TCN and RNN," Sensors, 21(13), 4537.
+1. L. Gong, M. Yu, __S. Jiang__, V. Cutsuridis, S. Kollias, S. Pearson, "Deep Learning Based Prediction on Greenhouse Crop Yield Combined TCN and RNN," Sensors, 21(13), 4537.
 
 1. Q Y Zhang, X Y He, Y Q Dong, __S Jiang__, and H Song, "Optimizing the Flight Route of UAV Using Biology Migration Algorithm", Journal of Physics: Conference Series 2025 012052, 2021.
 
@@ -179,8 +176,7 @@ V. Cutsuridis, __S. Jiang__, M. J. Dunn, A. Rosser, J. Brawn, J.T. Erichsen, "Ne
 
 1. J. Guo, Y. Wu, W. Xie, __S. Jiang__, “Triangular Gaussian mutation to differential evolution”, Soft Computing, 24(12), 9307 - 9320, 2019.
 
-1. 
-Q. Zhang, __S. Yang__, __S. Jiang__, R. Wang, X. Li, “Novel prediction strategies for dynamic multi-objective optimization”, IEEE Transactions on Evolutionary Computation, vol. 24, no. 2, 260-274, 2019.
+1. Q. Zhang, __S. Yang__, __S. Jiang__, R. Wang, X. Li, “Novel prediction strategies for dynamic multi-objective optimization”, IEEE Transactions on Evolutionary Computation, vol. 24, no. 2, 260-274, 2019.
 
 1. Y. Wang, J. Yu, S. Yang, __S. Jiang__, and S. Zhao, “Evolutionary dynamic constrained optimization: Test suite construction and algorithm comparisons”, Swarm and Evolutionary Computation, vol. 50, 2019, 100559.
 
@@ -193,103 +189,91 @@ __S. Jiang__, S. Yang, Y. Wang, and X. Liu, “Scalarizing functions in decompos
 
 1. __S. Yang__, __S. Jiang__, and Y. Jiang, “Improving the multiobjective evolutionary algorithm based on decomposition with new penalty schemes,” Soft Computing, vol. 17, no. 16, pp. 4677—4691, 2017. 
 
-
-1. 
-__S. Jiang__ and S. Yang, “A steady-state and generational evolutionary algorithm for dynamic multiobjective optimization,” IEEE Transactions on Evolutionary Computation, vol. 21, no. 1, pp. 65—82, 2017.
+1. __S. Jiang__ and S. Yang, “A steady-state and generational evolutionary algorithm for dynamic multiobjective optimization,” IEEE Transactions on Evolutionary Computation, vol. 21, no. 1, pp. 65—82, 2017.
 
 1. __S. Jiang__ and S. Yang, “A strength Pareto evolutionary algorithm based on reference direction for multiobective and many-objective optimization,” IEEE Transactions on Evolutionary Computation, vol. 21, no. 3, pp. 329—346, 2017.
 
 1. __S. Jiang__ and S. Yang, “Evolutionary dynamic multi-objective optimization: benchmarks and algorithm comparisons,” IEEE Transactions on Cybernetics, vol. 47, no.1, pp. 198—211, 2017.
 
-1. 
-__S. Jiang__ and S. Yang, “An improved multiobjective optimization evolutionary algorithm based on decomposition for complex Pareto fronts,” IEEE Transactions on Cybernetics, vol. 46, no. 2, pp. 421—437, 2016.
+1. __S. Jiang__ and S. Yang, “An improved multiobjective optimization evolutionary algorithm based on decomposition for complex Pareto fronts,” IEEE Transactions on Cybernetics, vol. 46, no. 2, pp. 421—437, 2016.
 
-1. 
-W. Qian, H. Hou and __S. Jiang__, “New self-adaptive cuckoo search algorithm,” Computer Science (China), vol. 41, no. 7, pp.279-282, Jun. 2014.
+1. W. Qian, H. Hou and __S. Jiang__, “New self-adaptive cuckoo search algorithm,” Computer Science (China), vol. 41, no. 7, pp.279-282, Jun. 2014.
 
 
 ### 会议论文 | Conferences
-`2023`
-X. Jia, __S. Jiang__, D. Wang, "Inverse Design of Compressor/fan Blade Profiles Based on Invertible Neural Network," GT2024.
+1. X. Jia, __S. Jiang__, D. Wang, "Inverse Design of Compressor/fan Blade Profiles Based on Invertible Neural Network," GT2024.
 
-`2022`
-D. Rajan, __S. Jiang__, D. Yi, W. Pang, G. Goghill, "Enhanced affinity propagation clustering on heterogeneous information network," UKCI2022.
+1. D. Rajan, __S. Jiang__, D. Yi, W. Pang, G. Goghill, "Enhanced affinity propagation clustering on heterogeneous information network," UKCI2022.
 
-`2021`
-__S. Jiang__, J. Guo, B. Alhnaity, and Q. Zhang, “On analysis of irregular Pareto front shapes,” EMO2021.
+1. __S. Jiang__, J. Guo, B. Alhnaity, and Q. Zhang, “On analysis of irregular Pareto front shapes,” EMO2021.
 
-J. Guo, M. Shao, __S. Jiang__, and X. Zhou, "A niche based multi-objective particle swarm optimizer", CEC 2021, 1319 -- 1326.
+1. J. Guo, M. Shao, __S. Jiang__, and X. Zhou, "A niche based multi-objective particle swarm optimizer", CEC 2021, 1319 -- 1326.
 
-`2020`
-J. Guo, __S. Jiang__, et al., “An improved multiobjective optimization evolutionary algorithm based on decomposition with hybrid penalty scheme”, GECCO 2020.
+1. J. Guo, __S. Jiang__, et al., “An improved multiobjective optimization evolutionary algorithm based on decomposition with hybrid penalty scheme”, GECCO 2020.
 
-`2018`
-M. Torres, __S. Jiang__, D. Pelta, M. Kaiser and N. Krasnogor, “Strain design as multiobjective network interdiction problem: A preliminary approach”, LNAI, CAEPIA 2018.
+1. M. Torres, __S. Jiang__, D. Pelta, M. Kaiser and N. Krasnogor, “Strain design as multiobjective network interdiction problem: A preliminary approach”, LNAI, CAEPIA 2018.
 
-__S. Jiang__, M. Torres, D. Pelta, P. Krabben, M.Kaiser and N. Krasnogor, “Improving microbial strain design via multiobjective optimisation and decision making,’’ AI for Synthetic Biology, IJCAI / FAIM 2018, 2018.
+1. __S. Jiang__, M. Torres, D. Pelta, P. Krabben, M.Kaiser and N. Krasnogor, “Improving microbial strain design via multiobjective optimisation and decision making,’’ AI for Synthetic Biology, IJCAI / FAIM 2018, 2018.
 
-__S. Jiang__, M. Kaiser, S. J. Guo, S. Yang, and N. Krasnogor, “Less detectable environmental changes in dynamic multiobjective optimisation”, GECCO’18, 2018.
+1. __S. Jiang__, M. Kaiser, S. J. Guo, S. Yang, and N. Krasnogor, “Less detectable environmental changes in dynamic multiobjective optimisation”, GECCO’18, 2018.
 
-__S. Jiang__, M. Kaiser, S. Wan, J. Guo, S. Yang, and N. Krasnogor, “An empirical study of dynamic triobjective optimisation problems”, CEC’18, 2018.
+1. __S. Jiang__, M. Kaiser, S. Wan, J. Guo, S. Yang, and N. Krasnogor, “An empirical study of dynamic triobjective optimisation problems”, CEC’18, 2018.
 
-`2016`
-__S. Jiang__ and S. Yang, “Convergence versus diversity in multiobjective optimization”, The 14th International Conference on Parallel Problem Solving from Nature (PPSN XIV), 2016.
+1. __S. Jiang__ and S. Yang, “Convergence versus diversity in multiobjective optimization”, The 14th International Conference on Parallel Problem Solving from Nature (PPSN XIV), 2016.
 
-__S. Jiang__ and S. Yang, “On the use of hypervolume for diversity measurement of Pareto front approximations”, SSCI’16, 2016.
+1. __S. Jiang__ and S. Yang, “On the use of hypervolume for diversity measurement of Pareto front approximations”, SSCI’16, 2016.
 
-__S. Jiang__ and S. Yang, “Adaptive penalty scheme for multiobjective evolutionary algorithm based on decomposition”, Proceedings of the 2016 IEEE Congress on Evolutionary Computation (CEC 2016), 2016.
+1. __S. Jiang__ and S. Yang, “Adaptive penalty scheme for multiobjective evolutionary algorithm based on decomposition”, Proceedings of the 2016 IEEE Congress on Evolutionary Computation (CEC 2016), 2016.
 
-`2015`
-__S. Jiang__ and S. Yang, “A fast strength Pareto evolutionary algorithm incorporating predefined preference information,” Proceedings of the 15th UK Workshop on Computational Intelligence (UKCI), 2015. 
+1. __S. Jiang__ and S. Yang, “A fast strength Pareto evolutionary algorithm incorporating predefined preference information,” Proceedings of the 15th UK Workshop on Computational Intelligence (UKCI), 2015. 
 
-__S. Jiang__ and S. Yang, “Approximating multiobjective optimization problems with complex Pareto fronts,” Proceedings of the 15th UK Workshop on Computational Intelligence (UKCI), 2015.
+1. __S. Jiang__ and S. Yang, “Approximating multiobjective optimization problems with complex Pareto fronts,” Proceedings of the 15th UK Workshop on Computational Intelligence (UKCI), 2015.
 
-`2014`
-__S. Jiang__ and S. Yang, “A framework of scalable dynamic test problems for dynamic multi-objective optimization,” Proceedings of the 2014 IEEE Symposium Series on Computational Intelligence in Dynamic and Uncertain Environments (CIDUE), pp. 32-39, 2014
+1. __S. Jiang__ and S. Yang, “A framework of scalable dynamic test problems for dynamic multi-objective optimization,” Proceedings of the 2014 IEEE Symposium Series on Computational Intelligence in Dynamic and Uncertain Environments (CIDUE), pp. 32-39, 2014
 
-__S. Jiang__ and S. Yang, “A benchmark generator for dynamic multi-objective optimization problems,” Proceedings of the 14th UK Workshop on Computational Intelligence (UKCI), pp. 1-8, 2014.
+1. __S. Jiang__ and S. Yang, “A benchmark generator for dynamic multi-objective optimization problems,” Proceedings of the 14th UK Workshop on Computational Intelligence (UKCI), pp. 1-8, 2014.
 
-__S. Jiang__ and S. Yang, “An improved quantum-behaved particle swarm optimization based on linear interpolation,” Proceedings of the 2014 IEEE Congress on Evolutionary Computation (CEC), pp. 769-775, 2014.
+1. __S. Jiang__ and S. Yang, “An improved quantum-behaved particle swarm optimization based on linear interpolation,” Proceedings of the 2014 IEEE Congress on Evolutionary Computation (CEC), pp. 769-775, 2014.
 
 
-### 其他 | Reports
+### 其他 | Reports & Theses
 
-`2018`
-__S. Jiang__, S. Yang, X. Yao, K. C. Tan, M. Kaiser, and N. Krasnogor, “Benchmarks for CEC18 competition on dynamic multiobjective optimization,’’ CEC 2018, Rio, Brazil.
+1. (Report) __S. Jiang__, S. Yang, X. Yao, K. C. Tan, M. Kaiser, and N. Krasnogor, “Benchmarks for CEC18 competition on dynamic multiobjective optimization,’’ CEC 2018, Rio, Brazil.
+1. (Thesis) __S. Jiang__, Evolutionary Algorithms for Multi-objective Optimisation in Static and Dynamic Environments, De Montfort University, Leicester, UK.
 
 
 ## 受邀报告 | Invited Talks
-"Evolutionary Optimization and its Application in Biosciences", invited talk, The 6th International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII 2022), Shantou, China, 2022.
+1. "Evolutionary Optimization and its Application in Biosciences", invited talk, The 6th International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII 2022), Shantou, China, 2022.
 
-“Metabolic games in metabolic engineering design”, invited talk, Newcastle University, UK, Jan., 2020.
+1. “Metabolic games in metabolic engineering design”, invited talk, Newcastle University, UK, Jan., 2020.
 
-“A game-theoretic approach to strain design for metabolic engineering”, invited talk, University of Cambridge, UK, July 2019.
+1. “A game-theoretic approach to strain design for metabolic engineering”, invited talk, University of Cambridge, UK, July 2019.
 
-“Computational strain design: a network interdiction approach”, ICOS seminar, Newcastle University, UK, 2019.
+1. “Computational strain design: a network interdiction approach”, ICOS seminar, Newcastle University, UK, 2019.
 
 
-“Less detectable environmental changes in dynamic multiobjective optimisatiom”, GECCO2018, Kyoto, Japan, 2018.
+1. “Less detectable environmental changes in dynamic multiobjective optimisatiom”, GECCO2018, Kyoto, Japan, 2018.
 
-“An empirical study of dynamic triobjective optimisation problems”, CEC2018, Rio, Brazil, 2018.
+1. “An empirical study of dynamic triobjective optimisation problems”, CEC2018, Rio, Brazil, 2018.
 
-“Evolutionary multiobjective optimisation in computational metabolic engineering’’, Bioprocess Engineering Group, University of Vigo, Spain, 2018.
+1. “Evolutionary multiobjective optimisation in computational metabolic engineering’’, Bioprocess Engineering Group, University of Vigo, Spain, 2018.
 “Evolutionary computing in real-world applications”, ICOS seminar, Newcastle University, UK, 2017.
 
-“Evolutionary computation: theory and application in synthetic biology”, EPSRC workshop, University of Birmingham, UK, 2017.
+1. “Evolutionary computation: theory and application in synthetic biology”, EPSRC workshop, University of Birmingham, UK, 2017.
 
-“Computational modelling for metabolic engineering” 4th International Synthetic & Systems Biology Summer School, University of Cambridge, UK.
+1. “Computational modelling for metabolic engineering” 4th International Synthetic & Systems Biology Summer School, University of Cambridge, UK.
  
-“Convergence versus diversity in multiobjective optimization”, 14th International Conference on Parallel Problem Solving from Nature (PPSN XIV), Edinburgh, U.K., September 2016.
+1. “Convergence versus diversity in multiobjective optimization”, 14th International Conference on Parallel Problem Solving from Nature (PPSN XIV), Edinburgh, U.K., September 2016.
 
-“Dynamic multiojective optimization: Algorithmic design and challenges”, Research Workshop on Computational Intelligence, De Montfort University, Leicester, U.K., May 2016.
+1. “Dynamic multiojective optimization: Algorithmic design and challenges”, Research Workshop on Computational Intelligence, De Montfort University, Leicester, U.K., May 2016.
 
-“Approximating multiobjective optimization problems with complex Pareto fronts,” 15th UK Workshop on Computational Intelligence (UKCI), Exeter, U.K., September, 2015.
+1. “Approximating multiobjective optimization problems with complex Pareto fronts,” 15th UK Workshop on Computational Intelligence (UKCI), Exeter, U.K., September, 2015.
 
-“A fast strength Pareto evolutionary algorithm incorporating predefined preference information,” 15th UK Workshop on Computational Intelligence (UKCI), Exeter, U.K., September, 2015. 
+1. “A fast strength Pareto evolutionary algorithm incorporating predefined preference information,” 15th UK Workshop on Computational Intelligence (UKCI), Exeter, U.K., September, 2015. 
 
-“A framework of scalable dynamic test problems for dynamic multi-objective optimization,” 2014 IEEE Symposium on Computational Intelligence in Dynamic and Uncertain Environments (CIDUE), Orlando, USA, December, 2014.
+1. “A framework of scalable dynamic test problems for dynamic multi-objective optimization,” 2014 IEEE Symposium on Computational Intelligence in Dynamic and Uncertain Environments (CIDUE), Orlando, USA, December, 2014.
 
-“Benchmarking dynamic multiobjective test problems”, Doctor Training Programme, De Montfort University, Leicester, U.K., July 2014.
+1. “Benchmarking dynamic multiobjective test problems”, Doctor Training Programme, De Montfort University, Leicester, U.K., July 2014.
 
 ## 教学 |Teaching
 

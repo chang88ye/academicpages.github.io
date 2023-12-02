@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-# Shouyong Jiang
+# 姜守勇
 <br>
 中南大学教授，博士生导师，国家高层次青年人才
 
@@ -111,6 +111,7 @@ Updated:
 `2016`
 *优秀自费留学生*, 国家留学基金委。
 
+`2016`
 *旅行基金*, 2016 PPSN会议。
 
 `2015`

@@ -3,10 +3,9 @@ layout: cv
 permalink: /cv/
 title: cv
 nav: true
-nav_order:2
+nav_order: 2
 author_profile: true
 description: current version of my academic CV (last updated 10/10/2023)
-toc
 ---
 
 {% include base_path %}

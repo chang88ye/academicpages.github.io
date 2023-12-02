@@ -66,7 +66,7 @@ Updated:
 人工智能，数据科学，建模与优化，多目标学习与优化，动态优化
 
 
-## 教育经历 Education
+## 教育经历 | Education
 
 `2013.11 - 2017.3`
 英国德蒙福特大学，__计算机博士__，导师：Prof. Shengxiang Yang。论文题目：Evolutionary Algorithms for Multi-objective Optimisation in Static and Dynamic Environments。
@@ -96,7 +96,7 @@ Updated:
 `2017 - 2019`
 英国纽卡斯尔大学博士后，计算机学院，合作导师：Natalio Krasnogor和Marcus Kaiser。
 
-## 进修经历 Further Learning
+## 进修经历 | Further Learning
 
 `2020.1 - 2021.12` 英国林肯大学，高等教育专业进修学位，获全球认证的高等教育HEA Fellow。
 

@@ -12,7 +12,7 @@ description: current version of my academic CV (last updated 10/10/2023)
 
 # Shouyong Jiang
 <br>
-Lecturer in University of Aberdeen, Computer Scientist, Data Researcher.
+Computer Scientist, Data Researcher.
 
 <!-- <br>
 <div class="no-print" align="right">

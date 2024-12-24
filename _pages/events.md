@@ -14,6 +14,6 @@ Journal Special Issues
 
 Conferences
 ======
-- [CEC2024 Competition on Dynamic Multi-objective Optimisation](/homepage/events/CEC2024-EDMO/index.html)
+- [CEC2024 Competition on Dynamic Multi-objective Optimisation](/homepage/events/CEC2024-DMO/index.html)
 - [CEC2023 Special Session on Optimisation Methods for Bioinformatics and Bioengineering](/homepage/events/CEC2023-OMBB/index.html)
 - [CEC2018 Competition on Dynamic Multi-objective Optimisation](http://homepages.cs.ncl.ac.uk/shouyong.jiang/cec2018/cec2018.html)
